@@ -1,0 +1,20 @@
+{
+  "name": "expressjs-node",
+  "version": "1.0.0",
+  "description": "node express app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/geraldkachi/expressjs-node.git"
+  },
+  "author": "fitzgerald kachi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
